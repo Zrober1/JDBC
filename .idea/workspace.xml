@@ -24,14 +24,19 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2FyjTVMo9TNVlsJswaGMFIYWAN9" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "D:/IntelliJ IDEA 2022.2.3/My project/JDBC",
     "node.js.detected.package.eslint": "true",
@@ -61,7 +66,7 @@
       <workItem from="1667901263870" duration="8000" />
       <workItem from="1667901367967" duration="376000" />
       <workItem from="1667901938283" duration="124000" />
-      <workItem from="1667902072515" duration="179000" />
+      <workItem from="1667902072515" duration="498000" />
     </task>
     <servers />
   </component>
@@ -78,6 +83,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
